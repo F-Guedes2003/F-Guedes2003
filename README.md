@@ -1,6 +1,6 @@
 # F-Guedes2003
 
-Hi, my name is Fhelippe Guedes Damasceno Pereira. Im a clojure programmer, but java is one of my favorite programming languages too. in this profile, i expect to develop and show my skills with clojure such as creating APIs, event oriented architectures made with kafka and kafka streams, use of apache Cassandra and so on so forth.
+Hi, my name is Fhelippe Guedes Damasceno Pereira. Im a clojure programmer, but java is one of my favorite programming languages too. in this profile, i expect to develop and show my skills in clojure such as creating APIs, event oriented architectures made with kafka and kafka streams integration, use of apache Cassandra and so on so forth.
 
 ## My skills
 
